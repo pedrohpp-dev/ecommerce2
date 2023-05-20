@@ -3486,8 +3486,8 @@ ul {
     padding-left: 0;
     padding-right: 0;
   }
+  
 }
-
 /* line 218, ../../01 cl html template/03_jun 2019/188_Aranoz shop_html/sass/_product.scss */
 .l_w_title {
   padding-left: 30px;
@@ -7808,3 +7808,13 @@ h6 {
 }
 
 /*# sourceMappingURL=style.css.map */
+
+/* PÁGINA CONTATOOOOOOOOOOOOOOOOOOOOOOOOOOOSSSSSSS */
+
+.conteudo-contatos {
+  margin: 16% 15%;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 20px;
+}
